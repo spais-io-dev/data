@@ -1,4 +1,4 @@
-county_id,County Name,State Name,Total,Margin of Error (+/-),Origin County Name,Origin State Name
+county_id,County Name,State Name,Total,Margin of Error,Origin County Name,Origin State Name
 '12001',Alachua County,Florida,-822,600,Miami-Dade,Florida
 '12003',Baker County,Florida,-129,120,Miami-Dade,Florida
 '12005',Bay County,Florida,17,62,Miami-Dade,Florida
